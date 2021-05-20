@@ -8,6 +8,12 @@ Current Functionality :
   * Search for Area.
   * Custom Time Frame.
   * Download the Clipped Image from map to local machine.
+
+Future Scope :
+
+ * Rainfall Data Analysis
+ * UI based project 
+
   
   
   Author : Rishwari Ranajn
